@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Anirban+Bhowmik's+GitHub!;Python+Developer+🐍;AI+ML+Enthusiast+📊;Building+Cool+Projects+🚀;Always+Learning+New+Things+📚&center=true&width=500&height=50)](https://git.io/typing-svg)
 
-<!--
-**anirban-bhowmik-coder/anirban-bhowmik-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+Hi, I'm **Anirban Bhowmik**  
+- 💻 Passionate about Python & Problem Solving  
+- 📊 Exploring AI and ML 
+- 🚀 Love building practical projects  
+- 🌱 Currently learning and improving every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Repositories
+👉 [View All Repositories](https://github.com/anirban-bhowmik-coder?tab=repositories)
