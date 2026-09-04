@@ -1,129 +1,83 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--                        ANIRBAN BHOWMIK                         -->
+<!--                    ANIRBAN BHOWMIK                            -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=ANIRBAN%20BHOWMIK&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Engineering%20%7C%20Builder&descAlignY=58&descSize=18"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/anirban-bhowmik-coder">
-    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:anirbanboy905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+# ⚡ ANIRBAN BHOWMIK
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-6D28D9?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
-</p>
+### `AI/ML Student` · `Intelligence Systems Explorer` · `Builder`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=BUILDING%20INTELLIGENCE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20%7C%20Experimenting%20%7C%20Building&descAlignY=60&descSize=18" width="100%"/>
 
 <br>
 
-<h3 align="center">
-  I build systems that don't just work — they think, verify, protect and assist.
-</h3>
+**I’m exploring how ideas become intelligent systems.**
 
-<p align="center">
-  <i>Computer Science (AI/ML) Student · Software Builder · Problem Solver</i>
-</p>
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anirban-bhowmik-coder)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
+[![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Explorer-7C3AED?style=for-the-badge)](https://github.com/anirban-bhowmik-coder)
+
+</div>
 
 ---
 
-# ◈ WHO I AM
+## 🧭 WHO I AM
 
-I'm **Anirban Bhowmik**, a Computer Science student specializing in **AI/ML**, currently building my way from programming fundamentals toward intelligent software systems.
+I'm **Anirban Bhowmik**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
 
-I don't want my GitHub to be a collection of tutorial projects.
-
-I want it to show a progression:
+I'm currently exploring the space between:
 
 ```text
         CODE
-         │
-         ▼
-   SOFTWARE SYSTEMS
-         │
-         ▼
-      AI / ML
-         │
-         ▼
-   INTELLIGENT SYSTEMS
-         │
-         ▼
-   REAL-WORLD PRODUCTS
+          ↓
+       SYSTEMS
+          ↓
+    INTELLIGENCE
+          ↓
+     REAL-WORLD
+      PROBLEMS
 ```
 
-My approach is simple:
+I enjoy turning ideas into working experiments — from **AI decision systems** and **cybersecurity platforms** to web projects and recommendation systems.
 
-> **Learn → Build → Break → Debug → Understand → Build Better**
-
-I'm particularly interested in:
-
-`Artificial Intelligence` · `Machine Learning` · `Generative AI` · `AI Agents` · `Software Engineering` · `Cybersecurity` · `Data Analytics`
+> Still learning. Still building. Still pushing the next idea further.
 
 ---
 
-# ⚡ WHAT I'M BUILDING
+## ⚙️ WHAT I'M EXPLORING
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 KIRO
+### 🧠 Artificial Intelligence
 
-**Autonomous Decision Intelligence**
-
-A multi-agent system designed to research, verify conflicting evidence and produce decisions that can actually be inspected.
-
-`AI Agents` `Gemini` `FastAPI` `React`
-
-</td>
-
-<td width="50%">
-
-### 🛡️ ZEROTRACE
-
-**Secure Data Erasure & Verification**
-
-A cybersecurity platform exploring secure sanitization, device detection, verification, recovery workflows and compliance-oriented reporting.
-
-`Cybersecurity` `Linux` `React` `Python`
+* AI / ML fundamentals
+* Generative AI
+* Agentic AI
+* LLM applications
+* Intelligent decision systems
+* Information retrieval
+* AI experimentation
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 🌐 DECODE
+### 🛠️ Technical Building
 
-**Student Academic Platform**
-
-A student-focused platform for organizing academic resources around year, branch and subject.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%">
-
-### 🤖 CHOPPER
-
-**Personal AI Assistant**
-
-An experimental human-centered AI assistant exploring voice interaction, wake words, reminders, notifications and contextual assistance.
-
-`AI` `Voice` `Android` `Automation`
+* Python
+* C / C++
+* HTML / CSS / JavaScript
+* Git & GitHub
+* Data analysis
+* Web development
+* Cybersecurity concepts
 
 </td>
 </tr>
@@ -131,253 +85,123 @@ An experimental human-centered AI assistant exploring voice interaction, wake wo
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀 PROJECT UNIVERSE
 
-## 🧠 KIRO — Autonomous Decision Intelligence
+### 🧠 KIRO
 
-<p align="center">
-  <a href="https://github.com/anirban-bhowmik-coder/Kiro">
-    <img src="https://img.shields.io/badge/EXPLORE%20KIRO-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**Autonomous Decision Intelligence**
 
-> **Don't just get an answer. Get a decision you can defend.**
+> *Don't just get an answer. Get a decision you can defend.*
 
-Most AI systems follow:
+KIRO explores a multi-agent approach to complex decision-making.
 
 ```text
-Question → AI → Answer
+QUESTION
+   ↓
+UNDERSTAND
+   ↓
+DECOMPOSE
+   ↓
+RESEARCH
+   ↓
+VERIFY
+   ↓
+CHALLENGE
+   ↓
+REASON
+   ↓
+DECISION
 ```
 
-KIRO experiments with:
+**Core idea:** combine research, verification and structured reasoning instead of relying on a single generated answer.
 
-```text
-Question
-   ↓
-Understand
-   ↓
-Decompose
-   ↓
-Research
-   ↓
-Verify
-   ↓
-Challenge Conflicts
-   ↓
-Reason
-   ↓
-Decision
-```
-
-### Four-Agent Architecture
-
-```text
-                    ┌───────────────┐
-                    │     USER      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ ORCHESTRATOR  │
-                    │     PLAN      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   RESEARCHER  │
-                    │     FIND      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    VERIFIER   │
-                    │ CHECK + TEST  │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │ DECISION MAKER│
-                    │    REASON     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    DECISION   │
-                    └───────────────┘
-```
-
-KIRO focuses on:
-
-* Evidence-backed reasoning
-* Multi-agent orchestration
-* Source verification
-* Conflict detection
-* Uncertainty handling
-* Structured decision making
-* Research → verification → recommendation workflows
-
-**Stack**
-
-`Python` `FastAPI` `React` `Vite` `Pydantic` `Gemini` `Google GenAI` `Docker` `Google Cloud Run`
+`React` · `Python` · `FastAPI` · `Gemini` · `Multi-Agent AI`
 
 **Status:** `Phase 1 · In Development`
 
 ---
 
-## 🛡️ ZeroTrace — Secure Data Erasure & Verification
+### 🛡️ ZEROTRACE
 
-<p align="center">
-  <a href="https://github.com/anirban-bhowmik-coder/ZeroTrace">
-    <img src="https://img.shields.io/badge/EXPLORE%20ZEROTRACE-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**Secure Data Erasure & Verification**
 
-> **Detect → Sanitize → Verify → Secure → Report**
-
-ZeroTrace explores the problem behind one simple question:
-
-### **Does deleting data actually mean the data is gone?**
-
-The project combines:
+A cybersecurity-focused platform exploring secure data sanitization, device detection, verification and evidence-oriented workflows.
 
 ```text
-Device Detection
-       ↓
-Target Selection
-       ↓
-Data Sanitization
-       ↓
-Verification
-       ↓
-Security / Audit
-       ↓
-Results / Report
+DETECT → SANITIZE → VERIFY → SECURE → REPORT
 ```
 
-### Core areas
+Key areas explored:
 
 * Device detection
 * Secure data erasure
-* Data sanitization
-* Post-operation verification
-* Recovery-oriented workflows
-* Compliance reporting
-* Confirmation safeguards
-* Frontend + backend integration
-* Automated testing
+* Post-wipe verification
+* Recovery / retrieval workflows
+* Audit-oriented evidence
+* Security safeguards
+* Compliance-oriented reporting
 
-### 🏆 Smart India Hackathon
+**SIH 2026:** Cleared Round 3 → Advanced to Round 4 with **Team ZEROTRACE**
 
-**Cleared the internal SIH stage and advanced through the competition to Round 4 with Team ZEROTRACE.**
-
-My role involved **team leadership, project coordination, device detection and technical guidance**.
-
-**Stack**
-
-`React` `JavaScript` `TypeScript` `Tailwind CSS` `Vite` `Python` `Linux`
+`React` · `JavaScript` · `TypeScript` · `Python` · `Vite` · `Tailwind`
 
 **Status:** `Active Development`
 
 ---
 
-## 🌐 DECODE — Student Academic Platform
+### 📚 DECODE
 
-> **Making academic resources easier to find, organize and use.**
+**Student Academic Resource Platform**
 
-DECODE is my exploration into building a student-focused platform rather than another isolated frontend project.
+A student-focused platform concept designed around organizing academic resources by:
 
 ```text
 YEAR
-  ↓
+ ↓
 BRANCH
-  ↓
+ ↓
 SUBJECT
-  ↓
-QUESTION PAPER
-  ↓
-SOLUTION / RESOURCE
-  ↓
-DISCUSSION
+ ↓
+PAPER
+ ↓
+RESOURCES
 ```
 
-### Exploring
+The goal is to make previous papers and academic resources easier for students to discover and use.
 
-* Previous-year question papers
-* Year → Branch → Subject navigation
-* Paper viewing
-* Solutions and explanations
-* Student resources
-* Discussion features
-* Theme switching
-* Responsive UI
-
-**Stack**
-
-`HTML` `CSS` `JavaScript`
+`HTML` · `CSS` · `JavaScript`
 
 **Status:** `In Progress`
 
 ---
 
-## 🤖 CHOPPER — Personal AI Assistant
+### 🦌 CHOPPER
 
-> **What if an AI assistant felt less like an app and more like a companion?**
+**Personal AI Assistant Concept**
 
-CHOPPER is an experimental personal AI assistant concept focused on natural interaction.
+An experimental personal-assistant project exploring a more personal and interactive AI experience.
 
-Instead of:
-
-```text
-Open App
-   ↓
-Type
-   ↓
-Wait
-   ↓
-Read
-```
-
-the vision is:
-
-```text
-             YOU
-              │
-       Voice / Interaction
-              │
-              ▼
-          CHOPPER
-              │
-      ┌───────┼────────┐
-      ▼       ▼        ▼
-   REASON   ASSIST   REMEMBER
-      │       │        │
-      └───────┼────────┘
-              ▼
-          TAKE ACTION
-```
-
-Exploring:
+Current ideas include:
 
 * Voice interaction
-* Wake-word activation
-* Conversational AI
-* Contextual assistance
-* Reminders
-* Phone notifications
-* Proactive assistance
-* Human-centered AI
-* Android assistant experiences
+* Wake-word experience
+* AI assistant interface
+* OS-level reminders / notifications
+* Personal document organization
+* Privacy-first architecture
+* Mobile-first experience
 
 **Status:** `Experimental · In Development`
 
 ---
 
-# 🎬 MOVIE RECOMMENDATION SYSTEM
+### 🎬 MOVIE RECOMMENDATION SYSTEM
 
-<p align="center">
-  <a href="https://github.com/anirban-bhowmik-coder/Movie-Recommendation-System">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**Rule-Based Recommendation Engine**
 
-A lightweight **logic-based recommendation engine** built without machine learning.
+A Python-based recommendation system built without machine learning.
 
-Instead of training a model, the system calculates similarity using interpretable rules:
+Instead of a trained model, recommendations are generated using weighted similarity:
 
 ```text
 Same Director       +5
@@ -386,333 +210,194 @@ Secondary Genre     +2
 Similar Vibe        +1
 ```
 
-```text
-User selects movie
-        ↓
-Compare attributes
-        ↓
-Calculate score
-        ↓
-Rank movies
-        ↓
-Top recommendations
-```
+The system calculates scores and returns the top recommendations.
 
-**Stack**
+`Python` · `Pandas` · `Streamlit`
 
-`Python` `Pandas` `Streamlit`
-
-A small project, but an important step in my progression toward understanding recommendation systems and applied data logic.
+**Status:** `Completed Project`
 
 ---
 
-# 🛡️ CYBERSECURITY EXPERIENCE
+# 🧩 MY BUILDING PATH
 
-## Junior Cyber Security Analyst Intern
-
-**E-Governance & Digital Services · YuvaIntern**
-
-Currently working through a four-week cybersecurity internship focused on digital-service security and defensive risk assessment.
-
-One of my public technical deliverables explores:
-
-### E-Governance Cybersecurity Risk Assessment
-
-<a href="https://github.com/anirban-bhowmik-coder/e-governance-cybersecurity-risk-assessment">
-  <img src="https://img.shields.io/badge/VIEW%20INTERNSHIP%20REPOSITORY-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-The assessment covers areas including:
-
-`Identity & Access Management`
-
-`Web / API Security`
-
-`Data Protection`
-
-`Ransomware Resilience`
-
-`Network Segmentation`
-
-`Logging & Monitoring`
-
-`Backup & Recovery`
-
-`Insider Risk`
-
-`Third-Party Security`
-
-The assessment uses a qualitative **5×5 risk matrix** and is explicitly designed as a **hypothetical, public-information-based defensive assessment** rather than testing real government infrastructure.
+```text
+                 ┌───────────────────┐
+                 │   COMPUTER SCIENCE │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │    PROGRAMMING    │
+                 │     C / C++       │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │     PYTHON        │
+                 │   DATA / LOGIC    │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │      AI / ML      │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │  INTELLIGENT      │
+                 │     SYSTEMS       │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │    REAL-WORLD     │
+                 │     PROBLEMS      │
+                 └───────────────────┘
+```
 
 ---
 
-# 🧰 TECHNOLOGY
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,c,javascript,html,css"/>
-</p>
-
-### AI / ML
-
-```text
-Artificial Intelligence
-Machine Learning
-Generative AI
-LLMs
-AI Agents
-NLP
-Exploratory Data Analysis
-Predictive Modelling
-```
-
-### Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,tailwind,nodejs"/>
-</p>
-
-### Cloud / AI Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,docker"/>
-</p>
-
-`Google Gemini` · `Google GenAI` · `Cloud Run`
-
-### Cybersecurity
-
-```text
-Secure Data Erasure
-Data Sanitization
-Digital Forensics
-Linux
-Risk Assessment
-Security Controls
-```
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-`Tableau` · `Microsoft Excel`
-
----
-
-# 🏆 ACHIEVEMENTS
+# 🧪 CURRENT FOCUS
 
 <table>
 <tr>
-<td align="center" width="33%">
-
-### 🥇
-
-**Smart India Hackathon**
-
-Advanced to **Round 4** with Team ZEROTRACE
-
-</td>
-
-<td align="center" width="33%">
-
-### ☁️
-
-**Oracle Certified**
-
-OCI 2025 Certified
-Generative AI Professional
-
-</td>
-
-<td align="center" width="33%">
-
-### 🏅
-
-**Innovation 2025**
-
-1st Runner-Up
-*Model Your Imagination with Blender*
-
-</td>
+<td align="center">🧠<br><b>AI / ML</b></td>
+<td align="center">🤖<br><b>Generative AI</b></td>
+<td align="center">🔗<br><b>Agentic Systems</b></td>
+<td align="center">💻<br><b>C++ & DSA</b></td>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">🛡️<br><b>Cybersecurity</b></td>
 </tr>
 </table>
 
-### Other Experience
+---
 
-* Student Volunteer — ICISESSC-2026 International Conference
-* PromptMatrix Hackathon — Google Student Ambassador initiative
-* Deloitte Australia — Data Analytics Job Simulation
-* Tata Group — Data Analytics Job Simulation
-* Microsoft Learn — Analyze Images
+# 🏆 PROOF OF WORK
+
+### 🥇 Innovation 2025
+
+**1st Runner-Up — Actinus' Hand: Model Your Imagination with Blender**
+
+### 🚀 Smart India Hackathon 2026
+
+**Cleared internal stage / Round 3 and advanced to Round 4**
+
+### ☁️ Oracle Certification
+
+**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+
+### 🌐 International Conference
+
+**Student Volunteer — ICISESSC-2026**
+
+### ⚡ Hackathon Experience
+
+**PromptMatrix Hackathon — IILM University**
 
 ---
 
-# 📈 GITHUB ACTIVITY
+# ☁️ CERTIFICATION
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirban-bhowmik-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-bhowmik-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### Oracle Cloud Infrastructure 2025
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anirban-bhowmik-coder&theme=tokyonight&hide_border=true"/>
-</p>
+## Certified Generative AI Professional
+
+`Oracle University · 2025`
+
+</div>
 
 ---
 
-# 🧭 THE BUILDING PATH
+# 🧰 TOOLKIT
+
+### Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### AI / Data
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+
+---
+
+# 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anirban-bhowmik-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-bhowmik-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+# 🔭 THE NEXT BUILD
 
 ```text
-                 ┌─────────────────────┐
-                 │    PROGRAMMING      │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ SOFTWARE ENGINEERING│
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   WEB APPLICATIONS  │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │       AI / ML       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │   GENERATIVE AI     │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │     AI AGENTS       │
-                 └──────────┬──────────┘
-                            ↓
-                 ┌─────────────────────┐
-                 │ INTELLIGENT SYSTEMS │
-                 └─────────────────────┘
+AI / ML
+   +
+AGENTIC SYSTEMS
+   +
+SECURITY
+   +
+HUMAN-CENTERED DESIGN
+   ↓
+INTELLIGENT SYSTEMS
 ```
 
-I'm not trying to master everything at once.
+I'm especially interested in building systems that don't just **generate outputs**, but can:
 
-I'm trying to **build something slightly more difficult every time.**
-
----
-
-# 🔬 HOW I BUILD
-
-```text
-       IDEA
-        │
-        ▼
-     QUESTION
-        │
-        ▼
-     RESEARCH
-        │
-        ▼
-    PROTOTYPE
-        │
-        ▼
-      BUILD
-        │
-        ▼
-       TEST
-        │
-        ▼
-      BREAK
-        │
-        ▼
-      DEBUG
-        │
-        ▼
-     IMPROVE
-        │
-        ▼
-       SHIP
-```
-
-I don't want AI to simply generate something and call it finished.
-
-The real question is:
-
-> **Can I understand it, explain it, improve it and make it mine?**
+**reason → verify → adapt → assist**
 
 ---
 
-# 🌌 WHAT'S NEXT
+# 🌌 BEYOND THE CODE
 
-```text
-[✓] Learn programming fundamentals
-[✓] Build real projects
-[✓] Explore AI / ML
-[✓] Work on cybersecurity
-[✓] Build a multi-agent AI system
-[✓] Participate in competitive development
-[✓] Gain industry exposure
-[ ] Strengthen C++ & DSA
-[ ] Deepen Machine Learning
-[ ] Build production-grade AI systems
-[ ] Deploy more applications
-[ ] Contribute to Open Source
-[ ] Turn experiments into products
-```
+I believe the best projects start with a simple question:
+
+> **"What if this could work differently?"**
+
+So I experiment.
+
+Some ideas become projects.
+Some become prototypes.
+Some fail.
+And some become the next thing worth building.
 
 ---
 
-# 💭 WHY THIS PROFILE EXISTS
+<div align="center">
 
-This isn't meant to be a perfect timeline.
-
-It's a **build log**.
-
-Some projects will work.
-
-Some will break.
-
-Some will get rebuilt from scratch.
-
-That's the point.
-
-Every repository represents something I learned while trying to move from:
-
-**"I know how to code."**
-
-to
-
-**"I know how to build."**
-
----
-
-<p align="center">
-
-### 🚀 BUILD BOLDLY.
-
-### 🧠 THINK DEEPLY.
-
-### 🔧 BREAK THINGS.
-
-### ♻️ BUILD BETTER.
+### ⚡ BUILD. BREAK. LEARN. REBUILD.
 
 <br>
 
-<b>One project at a time.</b>
+**AI/ML Student · Intelligence Systems Explorer · Builder**
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=anirban-bhowmik-coder&style=for-the-badge&color=312e81&label=PROFILE+VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=anirban-bhowmik-coder&style=flat-square&color=blueviolet" />
 
-</p>
+</div>
 
-<p align="center">
-  <i>Thanks for stopping by. Come back later — the story is still being built.</i>
-</p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer"/>
-</p>
+<!--                     KEEP BUILDING                             -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
