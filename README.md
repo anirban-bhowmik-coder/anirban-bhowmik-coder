@@ -1,97 +1,77 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    ANIRBAN BHOWMIK                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# ⚡ ANIRBAN BHOWMIK
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### `AI/ML Student` · `Intelligence Systems Explorer` · `Builder`
+<!--                         HERO                                   -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=220&section=header&text=BUILDING%20INTELLIGENCE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Learning%20%7C%20Experimenting%20%7C%20Building&descAlignY=60&descSize=18" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br>
-
-**I’m exploring how ideas become intelligent systems.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:312e81,100:06b6d4&height=240&section=header&text=ANIRBAN%20BHOWMIK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%E2%80%A2%20Intelligence%20Systems%20Explorer%20%E2%80%A2%20Builder&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/anirban-bhowmik-coder)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)](https://isocpp.org/)
-[![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-Explorer-7C3AED?style=for-the-badge)](https://github.com/anirban-bhowmik-coder)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Systems;Researching+Agentic+AI+%26+Decision+Systems;Turning+Ideas+Into+Working+Projects" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-BUILDING-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%2B%2B%20%7C%20PYTHON-LEARNING-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECTS-IN%20PROGRESS-EC4899?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🧭 WHO I AM
+# 🧠 `01` — THE PERSON BEHIND THE PROJECTS
 
-I'm **Anirban Bhowmik**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning**.
+I'm **Anirban Bhowmik**, a **Computer Science student specializing in Artificial Intelligence & Machine Learning**.
 
-I'm currently exploring the space between:
+I'm interested in the space where:
 
 ```text
         CODE
-          ↓
-       SYSTEMS
-          ↓
-    INTELLIGENCE
-          ↓
-     REAL-WORLD
-      PROBLEMS
+          │
+          ▼
+       LOGIC
+          │
+          ▼
+      INTELLIGENCE
+          │
+          ▼
+      REAL-WORLD
+       PROBLEMS
 ```
 
-I enjoy turning ideas into working experiments — from **AI decision systems** and **cybersecurity platforms** to web projects and recommendation systems.
+I like taking an idea, breaking it down, experimenting with it, and gradually turning it into something that actually works.
 
-> Still learning. Still building. Still pushing the next idea further.
+### Currently exploring
 
----
+* 🧠 Artificial Intelligence & Machine Learning
+* 🤖 Generative AI & Agentic AI
+* 🔎 Information retrieval & evidence-based reasoning
+* 💻 C++ & Data Structures / Algorithms
+* 🐍 Python & data analysis
+* 🛡️ Cybersecurity concepts
+* 🌐 Web technologies
+* 🔧 Building practical technical projects
 
-## ⚙️ WHAT I'M EXPLORING
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Artificial Intelligence
-
-* AI / ML fundamentals
-* Generative AI
-* Agentic AI
-* LLM applications
-* Intelligent decision systems
-* Information retrieval
-* AI experimentation
-
-</td>
-<td width="50%">
-
-### 🛠️ Technical Building
-
-* Python
-* C / C++
-* HTML / CSS / JavaScript
-* Git & GitHub
-* Data analysis
-* Web development
-* Cybersecurity concepts
-
-</td>
-</tr>
-</table>
+> **Not here to pretend I've mastered everything.
+> I'm here to build until I do.**
 
 ---
 
-# 🚀 PROJECT UNIVERSE
+# 🚀 `02` — PROJECT UNIVERSE
+
+<div align="center">
 
 ### 🧠 KIRO
 
-**Autonomous Decision Intelligence**
+## Autonomous Decision Intelligence
 
-> *Don't just get an answer. Get a decision you can defend.*
+**"Don't just get an answer. Get a decision you can defend."**
+
+</div>
 
 KIRO explores a multi-agent approach to complex decision-making.
 
@@ -106,32 +86,61 @@ RESEARCH
    ↓
 VERIFY
    ↓
-CHALLENGE
+CHALLENGE CONFLICTS
    ↓
 REASON
    ↓
 DECISION
 ```
 
-**Core idea:** combine research, verification and structured reasoning instead of relying on a single generated answer.
+### Agent Architecture
 
-`React` · `Python` · `FastAPI` · `Gemini` · `Multi-Agent AI`
+| Agent             | Purpose                                    |
+| ----------------- | ------------------------------------------ |
+| 🎯 Orchestrator   | Breaks objectives into structured tasks    |
+| 🔎 Researcher     | Finds information and extracts claims      |
+| 🛡️ Verifier      | Cross-checks evidence and contradictions   |
+| 🧠 Decision Maker | Synthesizes evidence into a recommendation |
 
-**Status:** `Phase 1 · In Development`
+**Project stack:** `React` · `Vite` · `Python` · `FastAPI` · `Gemini` · `Google Search Grounding`
+
+**Status:** `PHASE 1 · IN DEVELOPMENT`
 
 ---
 
+<div align="center">
+
 ### 🛡️ ZEROTRACE
 
-**Secure Data Erasure & Verification**
+## Secure Data Erasure & Verification
+
+</div>
 
 A cybersecurity-focused platform exploring secure data sanitization, device detection, verification and evidence-oriented workflows.
 
 ```text
-DETECT → SANITIZE → VERIFY → SECURE → REPORT
+┌─────────┐
+│ DETECT  │
+└────┬────┘
+     ↓
+┌─────────┐
+│SANITIZE │
+└────┬────┘
+     ↓
+┌─────────┐
+│ VERIFY  │
+└────┬────┘
+     ↓
+┌─────────┐
+│ SECURE  │
+└────┬────┘
+     ↓
+┌─────────┐
+│ REPORT  │
+└─────────┘
 ```
 
-Key areas explored:
+### Exploring
 
 * Device detection
 * Secure data erasure
@@ -141,263 +150,284 @@ Key areas explored:
 * Security safeguards
 * Compliance-oriented reporting
 
-**SIH 2026:** Cleared Round 3 → Advanced to Round 4 with **Team ZEROTRACE**
+🏆 **Smart India Hackathon 2026 — Cleared Round 3 → Advanced to Round 4**
 
-`React` · `JavaScript` · `TypeScript` · `Python` · `Vite` · `Tailwind`
+**Project stack:** `React` · `JavaScript` · `TypeScript` · `Python` · `Vite` · `Tailwind`
 
-**Status:** `Active Development`
+**Status:** `ACTIVE DEVELOPMENT`
 
 ---
+
+<div align="center">
 
 ### 📚 DECODE
 
-**Student Academic Resource Platform**
+## Student Academic Resource Platform
 
-A student-focused platform concept designed around organizing academic resources by:
+</div>
+
+A student-focused platform concept for organizing academic resources through a simple structure:
 
 ```text
 YEAR
- ↓
+  ↓
 BRANCH
- ↓
+  ↓
 SUBJECT
- ↓
+  ↓
 PAPER
- ↓
+  ↓
 RESOURCES
 ```
 
-The goal is to make previous papers and academic resources easier for students to discover and use.
+The idea is to make previous papers and academic material easier for students to discover and use.
 
-`HTML` · `CSS` · `JavaScript`
+**Stack:** `HTML` · `CSS` · `JavaScript`
 
-**Status:** `In Progress`
+**Status:** `IN PROGRESS`
 
 ---
+
+<div align="center">
 
 ### 🦌 CHOPPER
 
-**Personal AI Assistant Concept**
+## Personal AI Assistant
 
-An experimental personal-assistant project exploring a more personal and interactive AI experience.
+</div>
 
-Current ideas include:
+An experimental personal AI assistant concept focused on creating a more interactive and personal AI experience.
 
-* Voice interaction
-* Wake-word experience
-* AI assistant interface
-* OS-level reminders / notifications
-* Personal document organization
-* Privacy-first architecture
-* Mobile-first experience
+### Exploring ideas such as
 
-**Status:** `Experimental · In Development`
+🎙️ Voice interaction
+⚡ Wake-word experience
+🪟 Pop-up assistant interface
+🔔 Phone notifications & reminders
+📄 Personal document organization
+🔐 Privacy-first architecture
+📱 Mobile-first experience
+
+**Status:** `EXPERIMENTAL · IN DEVELOPMENT`
 
 ---
+
+<div align="center">
 
 ### 🎬 MOVIE RECOMMENDATION SYSTEM
 
-**Rule-Based Recommendation Engine**
+## Rule-Based Recommendation Engine
 
-A Python-based recommendation system built without machine learning.
+</div>
 
-Instead of a trained model, recommendations are generated using weighted similarity:
-
-```text
-Same Director       +5
-Primary Genre       +3
-Secondary Genre     +2
-Similar Vibe        +1
-```
-
-The system calculates scores and returns the top recommendations.
-
-`Python` · `Pandas` · `Streamlit`
-
-**Status:** `Completed Project`
-
----
-
-# 🧩 MY BUILDING PATH
+A Python recommendation system built using **logic-based scoring rather than machine learning**.
 
 ```text
-                 ┌───────────────────┐
-                 │   COMPUTER SCIENCE │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │    PROGRAMMING    │
-                 │     C / C++       │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │     PYTHON        │
-                 │   DATA / LOGIC    │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │      AI / ML      │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │  INTELLIGENT      │
-                 │     SYSTEMS       │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │    REAL-WORLD     │
-                 │     PROBLEMS      │
-                 └───────────────────┘
+Same Director       → +5
+Primary Genre       → +3
+Secondary Genre     → +2
+Similar Vibe        → +1
 ```
 
----
+The system compares movie attributes, calculates scores and ranks recommendations.
 
-# 🧪 CURRENT FOCUS
+**Stack:** `Python` · `Pandas` · `Streamlit`
 
-<table>
-<tr>
-<td align="center">🧠<br><b>AI / ML</b></td>
-<td align="center">🤖<br><b>Generative AI</b></td>
-<td align="center">🔗<br><b>Agentic Systems</b></td>
-<td align="center">💻<br><b>C++ & DSA</b></td>
-<td align="center">🐍<br><b>Python</b></td>
-<td align="center">🛡️<br><b>Cybersecurity</b></td>
-</tr>
-</table>
+**Status:** `COMPLETED PROJECT`
 
 ---
 
-# 🏆 PROOF OF WORK
+# 🧬 `03` — THE EVOLUTION
 
-### 🥇 Innovation 2025
+<div align="center">
 
-**1st Runner-Up — Actinus' Hand: Model Your Imagination with Blender**
+```text
+       COMPUTER SCIENCE
+              │
+              ▼
+        PROGRAMMING
+         C / C++
+              │
+              ▼
+           PYTHON
+       LOGIC + DATA
+              │
+              ▼
+          AI / ML
+              │
+              ▼
+       GENERATIVE AI
+              │
+              ▼
+       AGENTIC SYSTEMS
+              │
+              ▼
+    INTELLIGENT SYSTEMS
+              │
+              ▼
+       REAL-WORLD IMPACT
+```
 
-### 🚀 Smart India Hackathon 2026
+</div>
 
-**Cleared internal stage / Round 3 and advanced to Round 4**
+---
 
-### ☁️ Oracle Certification
+# ⚙️ `04` — CURRENT STACK
+
+<div align="center">
+
+### LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+
+### WEB
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+### AI / DATA
+
+<img src="https://skillicons.dev/icons?i=python,pandas" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+
+</div>
+
+---
+
+# 🏆 `05` — PROOF OF WORK
+
+<div align="center">
+
+| Achievement                       | Highlight                                     |
+| --------------------------------- | --------------------------------------------- |
+| 🚀 **Smart India Hackathon 2026** | Cleared Round 3 → Advanced to Round 4         |
+| 🥇 **Innovation 2025**            | 1st Runner-Up — Actinus' Hand                 |
+| ☁️ **Oracle Certification**       | OCI 2025 Certified Generative AI Professional |
+| 🌐 **ICISESSC-2026**              | Student Volunteer                             |
+| ⚡ **PromptMatrix**                | Hackathon participant                         |
+
+</div>
+
+---
+
+# ☁️ `06` — CERTIFICATION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ORACLE-OCI%202025%20CERTIFIED%20GENERATIVE%20AI%20PROFESSIONAL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<br><br>
 
 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
-### 🌐 International Conference
-
-**Student Volunteer — ICISESSC-2026**
-
-### ⚡ Hackathon Experience
-
-**PromptMatrix Hackathon — IILM University**
+</div>
 
 ---
 
-# ☁️ CERTIFICATION
+# 📊 `07` — GITHUB SIGNAL
 
 <div align="center">
 
-### Oracle Cloud Infrastructure 2025
+<img src="https://github-readme-stats.vercel.app/api?username=anirban-bhowmik-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-## Certified Generative AI Professional
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-bhowmik-coder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
-`Oracle University · 2025`
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=anirban-bhowmik-coder&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🧰 TOOLKIT
+# 🧪 `08` — HOW I BUILD
 
-### Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### AI / Data
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-EC4899?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-
-### Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│              💡 IDEA                       │
+│                ↓                            │
+│          🔍 EXPLORE                         │
+│                ↓                            │
+│          🧩 BREAK DOWN                      │
+│                ↓                            │
+│          🛠️ BUILD                          │
+│                ↓                            │
+│          🧪 TEST                            │
+│                ↓                            │
+│          📊 LEARN                           │
+│                ↓                            │
+│          🔁 ITERATE                         │
+│                ↓                            │
+│          🚀 IMPROVE                         │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 ---
 
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anirban-bhowmik-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban-bhowmik-coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-# 🔭 THE NEXT BUILD
+# 🔭 `09` — WHAT'S NEXT
 
 ```text
 AI / ML
    +
+GENERATIVE AI
+   +
 AGENTIC SYSTEMS
    +
-SECURITY
+CYBERSECURITY
    +
 HUMAN-CENTERED DESIGN
-   ↓
-INTELLIGENT SYSTEMS
+        │
+        ▼
+ INTELLIGENT SYSTEMS
 ```
 
-I'm especially interested in building systems that don't just **generate outputs**, but can:
+The goal isn't simply to build something that **works**.
 
-**reason → verify → adapt → assist**
+The goal is to understand:
+
+**why it works → where it fails → how to improve it → what it can become.**
 
 ---
 
-# 🌌 BEYOND THE CODE
+# 🌌 `10` — BEYOND THE CODE
 
-I believe the best projects start with a simple question:
+> **Every project starts as an idea.
+> The difference is what you do next.**
 
-> **"What if this could work differently?"**
+Some ideas become prototypes.
 
-So I experiment.
+Some become experiments.
 
-Some ideas become projects.
-Some become prototypes.
 Some fail.
-And some become the next thing worth building.
+
+And sometimes, one becomes the next thing worth building.
+
+I'm still learning.
+
+I'm still experimenting.
+
+And I'm still building.
 
 ---
 
 <div align="center">
 
-### ⚡ BUILD. BREAK. LEARN. REBUILD.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:020617&height=140&section=footer&animation=fadeIn" width="100%"/>
+
+### ⚡ BUILD · BREAK · LEARN · REBUILD
 
 <br>
 
-**AI/ML Student · Intelligence Systems Explorer · Builder**
+## **ANIRBAN BHOWMIK**
+
+`AI/ML Student` · `Intelligence Systems Explorer` · `Builder`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anirban-bhowmik-coder&style=flat-square&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=anirban-bhowmik-coder&style=for-the-badge&color=7C3AED"/>
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                     KEEP BUILDING                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
