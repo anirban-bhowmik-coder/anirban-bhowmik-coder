@@ -1,172 +1,209 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         HERO                                   -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:312e81,100:06b6d4&height=240&section=header&text=ANIRBAN%20BHOWMIK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%E2%80%A2%20Intelligence%20Systems%20Explorer%20%E2%80%A2%20Builder&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:312e81,100:06b6d4&height=240&section=header&text=ANIRBAN%20BHOWMIK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%E2%80%A2%20Intelligent%20Systems%20%E2%80%A2%20Builder&descAlignY=60&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Systems;Researching+Agentic+AI+%26+Decision+Systems;Turning+Ideas+Into+Working+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Exploring+Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Systems;Exploring+Generative+%26+Agentic+AI;Learning+%E2%86%92+Building+%E2%86%92+Breaking+%E2%86%92+Rebuilding" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-BUILDING-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AGENTIC%20AI-BUILDING-06B6D4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/C%2B%2B%20%7C%20PYTHON-LEARNING-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PROJECTS-IN%20PROGRESS-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECTS-BUILDING-EC4899?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🧠 `01` — THE PERSON BEHIND THE PROJECTS
+# 🧠 About Me
 
-I'm **Anirban Bhowmik**, a **Computer Science student specializing in Artificial Intelligence & Machine Learning**.
+Hi, I'm **Anirban Bhowmik** — a **Computer Science & Engineering student specializing in Artificial Intelligence & Machine Learning**.
 
-I'm interested in the space where:
+I'm interested in building systems that sit somewhere between:
 
 ```text
-        CODE
-          │
-          ▼
-       LOGIC
-          │
-          ▼
+        SOFTWARE
+           │
+           ▼
+         DATA
+           │
+           ▼
       INTELLIGENCE
-          │
-          ▼
+           │
+           ▼
+      DECISION MAKING
+           │
+           ▼
       REAL-WORLD
-       PROBLEMS
+        SYSTEMS
 ```
 
-I like taking an idea, breaking it down, experimenting with it, and gradually turning it into something that actually works.
+I enjoy taking ideas from a rough concept and turning them into working prototypes.
 
-### Currently exploring
+My current interests include:
 
-* 🧠 Artificial Intelligence & Machine Learning
-* 🤖 Generative AI & Agentic AI
-* 🔎 Information retrieval & evidence-based reasoning
-* 💻 C++ & Data Structures / Algorithms
-* 🐍 Python & data analysis
-* 🛡️ Cybersecurity concepts
-* 🌐 Web technologies
-* 🔧 Building practical technical projects
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Generative AI
+* 🔗 Agentic AI & multi-agent systems
+* 📊 Data analysis & visualization
+* 💻 C++ & Data Structures
+* 🐍 Python
+* 🌐 Web development
+* 🛡️ Cybersecurity
+* ☁️ Cloud & AI platforms
+* 🧪 Experimentation and rapid prototyping
 
-> **Not here to pretend I've mastered everything.
-> I'm here to build until I do.**
+> **I don't want to just learn technology.
+> I want to build with it.**
 
 ---
 
-# 🚀 `02` — PROJECT UNIVERSE
+# 🚀 Featured Projects
 
-<div align="center">
+My projects are experiments in different areas of technology — from AI agents and cybersecurity to student platforms and cultural technology.
 
-### 🧠 KIRO
+---
 
-## Autonomous Decision Intelligence
+## 🧠 KIRO
 
-**"Don't just get an answer. Get a decision you can defend."**
+### Autonomous Decision Intelligence Engine
 
-</div>
+> **Research → Verify → Reason → Decide**
 
-KIRO explores a multi-agent approach to complex decision-making.
+KIRO explores a multi-agent architecture for solving complex problems through structured research and evidence verification.
 
 ```text
-QUESTION
-   ↓
-UNDERSTAND
-   ↓
-DECOMPOSE
-   ↓
-RESEARCH
-   ↓
-VERIFY
-   ↓
-CHALLENGE CONFLICTS
-   ↓
-REASON
-   ↓
-DECISION
+                    USER OBJECTIVE
+                         │
+                         ▼
+                  🎯 ORCHESTRATOR
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+          🔎 RESEARCH  🛡️ VERIFY  🧩 ANALYZE
+              │          │          │
+              └──────────┼──────────┘
+                         ▼
+                  🧠 DECISION
+                         │
+                         ▼
+                 EXPLAINABLE RESULT
 ```
 
-### Agent Architecture
+**Focus**
 
-| Agent             | Purpose                                    |
-| ----------------- | ------------------------------------------ |
-| 🎯 Orchestrator   | Breaks objectives into structured tasks    |
-| 🔎 Researcher     | Finds information and extracts claims      |
-| 🛡️ Verifier      | Cross-checks evidence and contradictions   |
-| 🧠 Decision Maker | Synthesizes evidence into a recommendation |
+* Multi-agent orchestration
+* Research workflows
+* Evidence gathering
+* Verification
+* Conflict detection
+* Decision synthesis
 
-**Project stack:** `React` · `Vite` · `Python` · `FastAPI` · `Gemini` · `Google Search Grounding`
+**Stack**
+
+`React` · `Vite` · `Python` · `FastAPI` · `Gemini` · `Google Search Grounding`
 
 **Status:** `PHASE 1 · IN DEVELOPMENT`
 
 ---
 
-<div align="center">
+## 🛡️ ZeroTrace
 
-### 🛡️ ZEROTRACE
+### Secure Data Erasure & Verification Platform
 
-## Secure Data Erasure & Verification
-
-</div>
-
-A cybersecurity-focused platform exploring secure data sanitization, device detection, verification and evidence-oriented workflows.
+ZeroTrace is a cybersecurity-focused project exploring secure data sanitization and verification workflows.
 
 ```text
-┌─────────┐
-│ DETECT  │
-└────┬────┘
-     ↓
-┌─────────┐
-│SANITIZE │
-└────┬────┘
-     ↓
-┌─────────┐
-│ VERIFY  │
-└────┬────┘
-     ↓
-┌─────────┐
-│ SECURE  │
-└────┬────┘
-     ↓
-┌─────────┐
-│ REPORT  │
-└─────────┘
+DEVICE
+  │
+  ▼
+DETECT
+  │
+  ▼
+SANITIZE
+  │
+  ▼
+VERIFY
+  │
+  ▼
+GENERATE EVIDENCE
+  │
+  ▼
+SECURE REPORT
 ```
 
-### Exploring
+**Exploring**
 
 * Device detection
 * Secure data erasure
-* Post-wipe verification
-* Recovery / retrieval workflows
-* Audit-oriented evidence
+* Post-erasure verification
+* Recovery awareness
+* Evidence generation
 * Security safeguards
-* Compliance-oriented reporting
+* Audit-oriented workflows
 
-🏆 **Smart India Hackathon 2026 — Cleared Round 3 → Advanced to Round 4**
+🏆 **Smart India Hackathon 2026 — Advanced from Round 3 to Round 4**
 
-**Project stack:** `React` · `JavaScript` · `TypeScript` · `Python` · `Vite` · `Tailwind`
+**Stack**
 
-**Status:** `ACTIVE DEVELOPMENT`
+`React` · `TypeScript` · `JavaScript` · `Python` · `Vite` · `Tailwind`
+
+**Status:** `ACTIVE`
 
 ---
 
-<div align="center">
+## 🪔 Puja Elo
 
-### 📚 DECODE
+### Digital Festival Navigation & Discovery Platform
 
-## Student Academic Resource Platform
+Puja Elo explores how technology can improve the experience of navigating large-scale cultural festivals.
 
-</div>
+The platform combines:
 
-A student-focused platform concept for organizing academic resources through a simple structure:
+```text
+PANDAL DISCOVERY
+       +
+CROWD AWARENESS
+       +
+PEDESTRIAN ROUTES
+       +
+FESTIVAL SCHEDULES
+       +
+FOOD DISCOVERY
+       +
+COMMUNITY CONTENT
+       +
+MULTILINGUAL UI
+```
+
+### Highlights
+
+* 📍 Interactive pandal explorer
+* 🚶 Pedestrian route concepts
+* 🚦 Crowd & queue indicators
+* 📊 Crowd analytics
+* 🗓️ Festival timetable
+* 🍬 Food & Mishti directory
+* 🎬 Creator & community layer
+* 🌐 English / বাংলা / हिंदी
+* 🥁 Interactive Dhak experience
+* 🌅 Mahalaya experience
+
+**Stack**
+
+`HTML` · `CSS` · `JavaScript` · `Tailwind CSS` · `Chart.js` · `Canvas API` · `Web Audio API`
+
+**Status:** `PROTOTYPE`
+
+---
+
+## 📚 DECODE
+
+### Student Academic Resource Platform
+
+DECODE is a student-focused platform concept designed to make academic resources easier to discover.
 
 ```text
 YEAR
@@ -177,142 +214,153 @@ SUBJECT
   ↓
 PAPER
   ↓
-RESOURCES
+RESOURCE
 ```
 
-The idea is to make previous papers and academic material easier for students to discover and use.
+The idea is to create a structured academic ecosystem where students can discover previous papers and other learning resources without navigating through scattered sources.
 
-**Stack:** `HTML` · `CSS` · `JavaScript`
+**Stack**
+
+`HTML` · `CSS` · `JavaScript`
 
 **Status:** `IN PROGRESS`
 
 ---
 
-<div align="center">
+## 🦌 Chopper
 
-### 🦌 CHOPPER
+### Personal AI Companion
 
-## Personal AI Assistant
+Chopper is an experimental personal AI assistant concept focused on building a more interactive and personal AI experience.
 
-</div>
+### Exploring
 
-An experimental personal AI assistant concept focused on creating a more interactive and personal AI experience.
-
-### Exploring ideas such as
-
-🎙️ Voice interaction
-⚡ Wake-word experience
-🪟 Pop-up assistant interface
-🔔 Phone notifications & reminders
-📄 Personal document organization
-🔐 Privacy-first architecture
-📱 Mobile-first experience
+* 🎙️ Voice interaction
+* 🗣️ Wake-word experience
+* 🪟 Pop-up assistant
+* 🔔 Notifications & reminders
+* 📄 Personal document organization
+* 🔐 Privacy-first architecture
+* 📱 Mobile-first AI experience
 
 **Status:** `EXPERIMENTAL · IN DEVELOPMENT`
 
 ---
 
-<div align="center">
+## 🎬 Movie Recommendation System
 
-### 🎬 MOVIE RECOMMENDATION SYSTEM
+### Rule-Based Recommendation Engine
 
-## Rule-Based Recommendation Engine
-
-</div>
-
-A Python recommendation system built using **logic-based scoring rather than machine learning**.
+A lightweight recommendation system built using **logic-based scoring rather than machine learning**.
 
 ```text
-Same Director       → +5
-Primary Genre       → +3
-Secondary Genre     → +2
-Similar Vibe        → +1
+DIRECTOR MATCH       → +5
+PRIMARY GENRE        → +3
+SECONDARY GENRE      → +2
+SIMILAR VIBE         → +1
 ```
 
-The system compares movie attributes, calculates scores and ranks recommendations.
+The system evaluates movie attributes, calculates a relevance score and ranks recommendations.
 
-**Stack:** `Python` · `Pandas` · `Streamlit`
+**Stack**
 
-**Status:** `COMPLETED PROJECT`
+`Python` · `Pandas` · `Streamlit`
+
+**Status:** `COMPLETED`
 
 ---
 
-# 🧬 `03` — THE EVOLUTION
+# 🧬 My Technical Direction
 
-<div align="center">
+My interests are gradually moving toward intelligent systems.
 
 ```text
-       COMPUTER SCIENCE
-              │
-              ▼
-        PROGRAMMING
-         C / C++
-              │
-              ▼
-           PYTHON
-       LOGIC + DATA
-              │
-              ▼
-          AI / ML
-              │
-              ▼
-       GENERATIVE AI
-              │
-              ▼
-       AGENTIC SYSTEMS
-              │
-              ▼
-    INTELLIGENT SYSTEMS
-              │
-              ▼
-       REAL-WORLD IMPACT
+              COMPUTER SCIENCE
+                     │
+                     ▼
+               PROGRAMMING
+                     │
+              ┌──────┴──────┐
+              ▼             ▼
+             C++          PYTHON
+              │             │
+              └──────┬──────┘
+                     ▼
+                   DATA
+                     │
+                     ▼
+                  AI / ML
+                     │
+                     ▼
+               GENERATIVE AI
+                     │
+                     ▼
+                AGENTIC AI
+                     │
+                     ▼
+          INTELLIGENT SYSTEMS
+                     │
+                     ▼
+             REAL-WORLD USE
 ```
-
-</div>
 
 ---
 
-# ⚙️ `04` — CURRENT STACK
+# ⚙️ Tech Stack
 
 <div align="center">
 
-### LANGUAGES
+### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js"/>
 
-### WEB
+### Web
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-### AI / DATA
+### AI / Data
 
-<img src="https://skillicons.dev/icons?i=python,pandas" />
+<img src="https://skillicons.dev/icons?i=python,pandas"/>
 
-### TOOLS
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
 
 </div>
 
+### Currently Learning
+
+```text
+Artificial Intelligence
+Machine Learning
+Data Structures & Algorithms
+C++
+Python
+Generative AI
+Agentic AI
+Data Analysis
+System Design
+```
+
 ---
 
-# 🏆 `05` — PROOF OF WORK
+# 🏆 Achievements & Experience
 
 <div align="center">
 
 | Achievement                       | Highlight                                     |
 | --------------------------------- | --------------------------------------------- |
-| 🚀 **Smart India Hackathon 2026** | Cleared Round 3 → Advanced to Round 4         |
+| 🚀 **Smart India Hackathon 2026** | Round 3 → Round 4                             |
 | 🥇 **Innovation 2025**            | 1st Runner-Up — Actinus' Hand                 |
 | ☁️ **Oracle Certification**       | OCI 2025 Certified Generative AI Professional |
-| 🌐 **ICISESSC-2026**              | Student Volunteer                             |
-| ⚡ **PromptMatrix**                | Hackathon participant                         |
+| 🌐 **ICISESSC 2026**              | Student Volunteer                             |
+| ⚡ **PromptMatrix**                | Hackathon Participant                         |
 
 </div>
 
 ---
 
-# ☁️ `06` — CERTIFICATION
+# ☁️ Certification
 
 <div align="center">
 
@@ -326,7 +374,7 @@ The system compares movie attributes, calculates scores and ranks recommendation
 
 ---
 
-# 📊 `07` — GITHUB SIGNAL
+# 📊 GitHub
 
 <div align="center">
 
@@ -336,81 +384,91 @@ The system compares movie attributes, calculates scores and ranks recommendation
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=anirban-bhowmik-coder&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=anirban-bhowmik-coder&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧪 `08` — HOW I BUILD
+# 🧪 How I Build
+
+I generally follow a simple loop:
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│              💡 IDEA                       │
-│                ↓                            │
-│          🔍 EXPLORE                         │
-│                ↓                            │
-│          🧩 BREAK DOWN                      │
-│                ↓                            │
-│          🛠️ BUILD                          │
-│                ↓                            │
-│          🧪 TEST                            │
-│                ↓                            │
-│          📊 LEARN                           │
-│                ↓                            │
-│          🔁 ITERATE                         │
-│                ↓                            │
-│          🚀 IMPROVE                         │
-│                                             │
-└─────────────────────────────────────────────┘
+             💡 IDEA
+                │
+                ▼
+           🔍 EXPLORE
+                │
+                ▼
+           🧩 BREAK DOWN
+                │
+                ▼
+             🛠️ BUILD
+                │
+                ▼
+             🧪 TEST
+                │
+                ▼
+             💥 BREAK
+                │
+                ▼
+             📚 LEARN
+                │
+                ▼
+            🔁 REBUILD
+                │
+                ▼
+             🚀 IMPROVE
 ```
+
+I don't expect the first version to be perfect.
+
+The objective is to understand the system, find its weaknesses and make the next version better.
 
 ---
 
-# 🔭 `09` — WHAT'S NEXT
+# 🔭 What's Next?
+
+I'm currently moving deeper into:
 
 ```text
 AI / ML
    +
-GENERATIVE AI
+Generative AI
    +
-AGENTIC SYSTEMS
+Agentic Systems
    +
-CYBERSECURITY
+Data
    +
-HUMAN-CENTERED DESIGN
+Cybersecurity
+   +
+Software Engineering
         │
         ▼
  INTELLIGENT SYSTEMS
 ```
 
-The goal isn't simply to build something that **works**.
+My long-term goal is to build systems that don't simply **produce outputs**, but can:
 
-The goal is to understand:
-
-**why it works → where it fails → how to improve it → what it can become.**
+**understand → reason → verify → act → improve**
 
 ---
 
-# 🌌 `10` — BEYOND THE CODE
+# 🌌 Beyond the Code
 
-> **Every project starts as an idea.
-> The difference is what you do next.**
+> **Ideas are cheap.
+> Building them is where the learning starts.**
 
-Some ideas become prototypes.
+Some projects work.
 
-Some become experiments.
+Some break.
 
-Some fail.
+Some turn into something completely different from what was originally imagined.
 
-And sometimes, one becomes the next thing worth building.
+That's part of the process.
 
-I'm still learning.
-
-I'm still experimenting.
-
-And I'm still building.
+I'm here to learn the fundamentals, experiment with new technologies and keep building increasingly ambitious systems.
 
 ---
 
@@ -422,9 +480,9 @@ And I'm still building.
 
 <br>
 
-## **ANIRBAN BHOWMIK**
+**ANIRBAN BHOWMIK**
 
-`AI/ML Student` · `Intelligence Systems Explorer` · `Builder`
+`AI/ML Student` · `Intelligent Systems Explorer` · `Builder`
 
 <br>
 
