@@ -145,11 +145,11 @@ ROUND 04
 
 ---
 
-## 🧠 KIRO
+## 🧠 KINETICMESH
 
 ### `AUTONOMOUS DECISION INTELLIGENCE ENGINE`
 
-KIRO is a multi-agent decision intelligence system designed for problems where a reliable answer requires **research, verification and structured reasoning**.
+KINETICMESH is a multi-agent decision intelligence system designed for problems where a reliable answer requires **research, verification and structured reasoning**.
 
 ### `CORE ARCHITECTURE`
 
@@ -199,7 +199,7 @@ KIRO is a multi-agent decision intelligence system designed for problems where a
 | 🛡️ **Verifier** | Cross-checks claims and detects conflicts |
 | 🧠 **Decision Maker** | Synthesizes findings into a recommendation |
 
-KIRO keeps:
+KINETICMESH keeps:
 
 `FACTS` · `INFERENCES` · `UNCERTAINTY`
 
@@ -217,7 +217,7 @@ Evidence states include:
 
 ---
 
-## 🪔 Puja Elo | পূজা এলো
+## 🪔 PujO Elo | পূজা এলো
 
 ### `DIGITAL DURGA PUJA DISCOVERY & EXPERIENCE PLATFORM`
 
