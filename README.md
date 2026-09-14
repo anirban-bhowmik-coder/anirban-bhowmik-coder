@@ -21,14 +21,14 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        ANIRBAN.OS // PROFILE                        ║
+║                        ANIRBAN.OS // PROFILE                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   ROLE        ::  AI/ML STUDENT + BUILDER                           ║
-║   MODE        ::  LEARN → BUILD → BREAK → REBUILD                   ║
-║   CURRENT     ::  INTELLIGENT SYSTEMS                               ║
-║   INTERESTS   ::  AI • GEN AI • AGENTS • DATA • WEB                 ║
-║   STATUS      ::  ● ONLINE                                          ║
+║   ROLE        ::  AI/ML STUDENT + BUILDER                            ║
+║   MODE        ::  LEARN → BUILD → BREAK → REBUILD                    ║
+║   CURRENT     ::  INTELLIGENT SYSTEMS                                ║
+║   INTERESTS   ::  AI • GEN AI • AGENTS • DATA • WEB                  ║
+║   STATUS      ::  ● ONLINE                                           ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -88,7 +88,7 @@ IMPROVE
 # 🚀 PROJECTS
 
 ## 🛡️ ZeroTrace
-Live:zerotrace-three.vercel.app
+Live:(https://zerotrace-three.vercel.app/)
 
 ### `SECURE DATA ERASURE & VERIFICATION PLATFORM`
 
@@ -465,7 +465,7 @@ RECOMMENDATIONS
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                       ACHIEVEMENT.LOG                         ║
+║                       ACHIEVEMENT.LOG                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║ 🚀 SMART INDIA HACKATHON 2026                               ║
@@ -474,13 +474,13 @@ RECOMMENDATIONS
 ║ 🥇 INNOVATION 2025                                           ║
 ║    1st Runner-Up — Actinus' Hand                             ║
 ║                                                              ║
-║ ☁️ ORACLE                                                     ║
+║ ☁️ ORACLE                                                    ║
 ║    OCI 2025 Certified Generative AI Professional             ║
 ║                                                              ║
-║ 🌐 ICISESSC 2026                                              ║
+║ 🌐 ICISESSC 2026                                            ║
 ║    Student Volunteer                                         ║
 ║                                                              ║
-║ ⚡ PROMPTMATRIX                                               ║
+║ ⚡ PROMPTMATRIX                                              ║
 ║    Hackathon Participant                                     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -520,39 +520,39 @@ RECOMMENDATIONS
              ┌──────────────┐
              │     IDEA     │
              └──────┬───────┘
-                    ↓
+                  ↓
              ┌──────────────┐
              │    EXPLORE   │
              └──────┬───────┘
-                    ↓
+                  ↓
              ┌──────────────┐
              │   DESIGN     │
              └──────┬───────┘
-                    ↓
+                  ↓
              ┌──────────────┐
              │    BUILD     │
              └──────┬───────┘
-                    ↓
+                   ↓
              ┌──────────────┐
              │     TEST     │
              └──────┬───────┘
-                    ↓
+                  ↓
              ┌──────────────┐
              │    BREAK     │
              └──────┬───────┘
-                    ↓
+                   ↓
              ┌──────────────┐
              │    DEBUG     │
              └──────┬───────┘
-                    ↓
+                  ↓
              ┌──────────────┐
              │    LEARN     │
              └──────┬───────┘
-                    ↓
+                   ↓
              ┌──────────────┐
              │   REBUILD    │
              └──────┬───────┘
-                    ↓
+                   ↓
              ┌──────────────┐
              │   IMPROVE    │
              └──────────────┘
