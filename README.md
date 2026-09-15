@@ -24,7 +24,7 @@
 ║                        ANIRBAN.OS // PROFILE                         ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   ROLE        ::  AI/ML STUDENT + BUILDER                            ║
+║   ROLE        ::  AI/ML STUDENT + BUILDER                           ║
 ║   MODE        ::  LEARN → BUILD → BREAK → REBUILD                    ║
 ║   CURRENT     ::  INTELLIGENT SYSTEMS                                ║
 ║   INTERESTS   ::  AI • GEN AI • AGENTS • DATA • WEB                  ║
