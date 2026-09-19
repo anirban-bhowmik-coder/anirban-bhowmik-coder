@@ -40,7 +40,7 @@
 ║ ACADEMIC       :: 2ND YEAR • 3RD SEMESTER                                    ║
 ║ CGPA           :: 8.21 / 10.00                                               ║
 ║ MODE           :: LEARN → UNDERSTAND → BUILD → DEBUG → IMPROVE               ║
-║ STATUS         :: ● STUDENT / BUILDING                                      ║
+║ STATUS         :: ● STUDENT / BUILDING                                       ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -173,7 +173,7 @@ Core distinction:
 
 ---
 
-## `03` 🪔 PujO Elo | পূজা এলো
+## `03` 🪔 Pujo Elo | পূজা এলো
 
 ### Digital Durga Puja Discovery & Experience Platform
 
