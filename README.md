@@ -172,6 +172,7 @@ Core distinction:
 **Technology:** `React` · `Vite` · `Python` · `FastAPI` · `Pydantic` · `Gemini` · `Grounded Search`
 
 ---
+link;
 
 ## `03` 🪔 Pujo Elo | পূজা এলো
 
