@@ -172,7 +172,7 @@ Core distinction:
 **Technology:** `React` · `Vite` · `Python` · `FastAPI` · `Pydantic` · `Gemini` · `Grounded Search`
 
 ---
-link;
+link:https://kineticmesh.vercel.app/
 
 ## `03` 🪔 Pujo Elo | পূজা এলো
 
